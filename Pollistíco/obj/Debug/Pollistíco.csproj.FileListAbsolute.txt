@@ -1,0 +1,26 @@
+C:\Users\marti\source\repost\Pollistíco\bin\Debug\Pollistíco.exe.config
+C:\Users\marti\source\repost\Pollistíco\bin\Debug\Pollistíco.exe
+C:\Users\marti\source\repost\Pollistíco\bin\Debug\Pollistíco.pdb
+C:\Users\marti\source\repost\Pollistíco\obj\Debug\Pollistíco.csprojAssemblyReference.cache
+C:\Users\marti\source\repost\Pollistíco\obj\Debug\Pollistíco.Form1.resources
+C:\Users\marti\source\repost\Pollistíco\obj\Debug\Pollistíco.Form2.resources
+C:\Users\marti\source\repost\Pollistíco\obj\Debug\Pollistíco.Form4.resources
+C:\Users\marti\source\repost\Pollistíco\obj\Debug\Pollistíco.Properties.Resources.resources
+C:\Users\marti\source\repost\Pollistíco\obj\Debug\Pollistíco.csproj.GenerateResource.cache
+C:\Users\marti\source\repost\Pollistíco\obj\Debug\Pollistíco.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repost\Pollistíco\obj\Debug\Pollistíco.exe
+C:\Users\marti\source\repost\Pollistíco\obj\Debug\Pollistíco.pdb
+C:\Users\Lucas Sosa\Desktop\Pollistíco\bin\Debug\Pollistíco.exe.config
+C:\Users\Lucas Sosa\Desktop\Pollistíco\bin\Debug\Pollistíco.exe
+C:\Users\Lucas Sosa\Desktop\Pollistíco\bin\Debug\Pollistíco.pdb
+C:\Users\Lucas Sosa\Desktop\Pollistíco\obj\Debug\Pollistíco.csprojAssemblyReference.cache
+C:\Users\Lucas Sosa\Desktop\Pollistíco\obj\Debug\Pollistíco.Properties.Resources.resources
+C:\Users\Lucas Sosa\Desktop\Pollistíco\obj\Debug\Pollistíco.csproj.GenerateResource.cache
+C:\Users\Lucas Sosa\Desktop\Pollistíco\obj\Debug\Pollistíco.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Sosa\Desktop\Pollistíco\obj\Debug\Pollistíco.exe
+C:\Users\Lucas Sosa\Desktop\Pollistíco\obj\Debug\Pollistíco.pdb
+C:\Users\Lucas Sosa\Desktop\Pollistíco\obj\Debug\Pollistíco.Inicio.resources
+C:\Users\Lucas Sosa\Desktop\Pollistíco\obj\Debug\Pollistíco.IniciarSesion.resources
+C:\Users\Lucas Sosa\Desktop\Pollistíco\obj\Debug\Pollistíco.Registrarse.resources
+C:\Users\Lucas Sosa\Desktop\Pollistíco\obj\Debug\Pollistíco.tablero.resources
+C:\Users\Lucas Sosa\Desktop\Pollistíco\obj\Debug\Pollistíco.btn_Multi.resources
