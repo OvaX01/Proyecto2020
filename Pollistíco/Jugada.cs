@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Pollistíco
 {
-    public class ficha
+    public class Jugada
     {
-        private int posicion = 0;
 
-        public int Posicion { get => posicion; set => posicion = value; }
+
+
 
     }
 }

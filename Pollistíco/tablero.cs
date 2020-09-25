@@ -16,5 +16,10 @@ namespace Pollistíco
         {
             InitializeComponent();
         }
+
+        private void tablero_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

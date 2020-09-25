@@ -66,14 +66,14 @@
             // 
             this.textBox1.Location = new System.Drawing.Point(299, 379);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(130, 20);
+            this.textBox1.Size = new System.Drawing.Size(144, 20);
             this.textBox1.TabIndex = 2;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(218, 378);
+            this.button2.Location = new System.Drawing.Point(218, 379);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 20);
+            this.button2.Size = new System.Drawing.Size(75, 24);
             this.button2.TabIndex = 3;
             this.button2.Text = "chat";
             this.button2.UseVisualStyleBackColor = true;
@@ -93,6 +93,7 @@
             this.Name = "tablero";
             this.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.Text = "Form3";
+            this.Load += new System.EventHandler(this.tablero_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

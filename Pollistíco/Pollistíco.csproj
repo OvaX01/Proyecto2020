@@ -48,6 +48,9 @@
   <ItemGroup>
     <Compile Include="Casillero.cs" />
     <Compile Include="ficha.cs" />
+    <Compile Include="Jugada.cs" />
+    <Compile Include="Partida.cs" />
+    <Compile Include="Perfil.cs" />
     <Compile Include="Registrarse.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +83,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Usuario.cs" />
     <EmbeddedResource Include="Registrarse.resx">
       <DependentUpon>Registrarse.cs</DependentUpon>
     </EmbeddedResource>
